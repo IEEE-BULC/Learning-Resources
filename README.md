@@ -8,7 +8,9 @@ this repository contain some awesome Cyber Security Realated Stuff
 
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
-Inspired by [Farhan Ashraf](https://github.com/mriceflame).
+Inspired by [Mr Saeed](https://github.com/mrsaeeddev/free-ai-resources) and [sbilly](https://github.com/sbilly/awesome-security).
 
-Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/IEEE-BULC/Learning-Resources/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+#Introducation to computer science
+#CS50
